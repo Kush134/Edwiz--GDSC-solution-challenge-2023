@@ -19,12 +19,6 @@ To address this issue, some methods have been developed to help students enjoy l
 EDwiz is a browser based visualization tool that allows educators to better prepare for their lessons by mapping Gestures --> Visualizations.
 
 After logging in, teachers can view a Canvas where they can preset three unique gestures to visualizations of their choice. We have recognized the value of Generative image AI applications such as Dall-E 2 and Stable Diffusion and have offered teachers a way to map their **gestures to Generative Images** based on their prompt or lesson requirements. Moreover, we enable teachers to map their **gestures to GIFS** because GIFs are often liked by students and convey the concept in an interactive manner
-
-EDwiz also provides a history dashboard where teacher can view images they have previously configured so that they can reuse them for future lessons.
-
-After the gestures to visualizations mapping has been completed, teachers can share their screen showing the EDwiz application and just **by making a gesture, they can conjure the gesture they have mapped. Just like magic!**
-
-[![Screenshot-2023-01-08-220941.png](https://i.postimg.cc/8CmYxpnC/Screenshot-2023-01-08-220941.png)](https://postimg.cc/5HjpCVJc)
   
 
 ## How we built it ⚙️
@@ -111,26 +105,4 @@ We also used MongoDB as a caching layer, in a scenario where users already selec
 [![Screenshot-2023-01-08-172638.png](https://i.postimg.cc/vmfwCLwL/Screenshot-2023-01-08-172638.png)](https://postimg.cc/v1YKVnBc)
 
 
-## Accomplishments that we're proud of ✨
-
-We are proud of finishing the project on time which seemed like a tough task as we started working on it quite late due to other commitments. We were also able to add most of the features that we envisioned for the app during idealization. And as always, working overnight was pretty fun! :)
-
-  
-This project was especially an achievement for us because the experience was very different from than in-person hackathons. We found that some parts were the same though - we went through heavy brainstorming and extensive research all to feel the sweet, sweet success of hitting the final pin on the board.
-
-  
-
-## What we learned 🙌
-
-**Proper sleep is very important! :p** Well, a lot of things, both summed up in technical & non-technical sides. Also not to mention, we enhanced our googling, ChatGPTing and StackOverflow searching skills during the hackathon :)
-
-  
-
-## What's next? 🚀
-
-*We believe that our App has great potential*. We just really want this project to have a positive impact on people's lives! We would love to make it more *scalable* & *cross-platform* so that the user interaction increases to a great extent.
-
-**Note ⚠️ — API credentials have been revoked. If you want to run the same on your local, use your own credentials.**
-
-[![thanks.png](https://i.postimg.cc/8c3DsRWc/thanks.png)](https://postimg.cc/64dFmGMx)
 
